@@ -20,7 +20,7 @@ parameter.
 
 Ellipsoid Size parameters 
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-.. _ellipsoid_parameters : PROJ/docs/source/oprations/options/
+.. _ellipsoid_parameters : ../oprations/options/
 
 	============   ==============================================================
 	Parameter      Description
@@ -31,8 +31,7 @@ Ellipsoid Size parameters
 
 Ellipsoid Shape parameters 
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-.. _ellipsoid_parameters : PROJ/docs/source/oprations/options/
-
+.. _ellipsoid_parameters : ../oprations/options/
 	============   ==============================================================
 	Parameter      Description
 	============   ==============================================================
@@ -48,7 +47,7 @@ the ellipsoid into a sphere with features defined by the ellipsoid.
 
 Ellipsoid Spherification parameters 
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-.. _ellipsoid_parameters : PROJ/docs/source/oprations/options/
+.. _ellipsoid_parameters : ../oprations/options/
 
 	============   ==============================================================
 	Parameter      Description
@@ -69,7 +68,7 @@ ellipsoid definitions.
 
 Local Ellipsoid examples 
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-.. _ellipsoid_parameters : PROJ/docs/source/oprations/options/
+.. _ellipsoid_parameters : ../oprations/options/
 
 	============   =================================    ============================            
 	ellps          Parameters                           Datum name
